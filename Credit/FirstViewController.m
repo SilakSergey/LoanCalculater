@@ -53,7 +53,6 @@
 
     if ([localeID  isEqual: @"ru_RU"])
     {
-//        NSLog (@"Локаль  : %@", localeID);
         decimalSeperator = @",";}
     else
     {
@@ -72,7 +71,7 @@
         numberFormatter = [[NSNumberFormatter alloc] init];
 
 
- //       [numberFormatter setNumberStyle:NSNumberFormatterDecimalStyle];
+ 
 
     
         numberFormatter.maximumFractionDigits = 10;
