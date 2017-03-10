@@ -1,0 +1,60 @@
+
+/* Class = "IBUITextField"; text = "0.00"; ObjectID = "0Wy-sJ-eoz"; */
+"0Wy-sJ-eoz.text" = "0.00";
+
+/* Class = "IBUILabel"; text = "Первый взнос"; ObjectID = "3iE-4d-8Nw"; */
+"3iE-4d-8Nw.text" = "Первый взнос";
+
+/* Class = "IBUIViewController"; title = "First"; ObjectID = "CZ4-MO-1fc"; */
+"CZ4-MO-1fc.title" = "First";
+
+/* Class = "IBUILabel"; text = "Ежемесячный платеж"; ObjectID = "EUa-gF-dSl"; */
+"EUa-gF-dSl.text" = "Ежемесячный платеж";
+
+/* Class = "IBUILabel"; text = "Сумма кредита"; ObjectID = "GkC-fk-9vU"; */
+"GkC-fk-9vU.text" = "Сумма кредита";
+
+/* Class = "IBUILabel"; text = "Срок кредита в месяцах"; ObjectID = "Hiw-dh-6fD"; */
+"Hiw-dh-6fD.text" = "Срок кредита в месяцах";
+
+/* Class = "IBUISegmentedControl"; Jif-Ko-EnJ.segmentTitles[0] = "Аннуитент"; ObjectID = "Jif-Ko-EnJ"; */
+"Jif-Ko-EnJ.segmentTitles[0]" = "Аннуитент";
+
+/* Class = "IBUISegmentedControl"; Jif-Ko-EnJ.segmentTitles[1] = "Дифферент"; ObjectID = "Jif-Ko-EnJ"; */
+"Jif-Ko-EnJ.segmentTitles[1]" = "Дифферент";
+
+/* Class = "IBUIViewController"; title = "Second"; ObjectID = "QUy-BD-bpt"; */
+"QUy-BD-bpt.title" = "Second";
+
+/* Class = "IBUILabel"; text = "Первый взнос"; ObjectID = "TC2-fF-OxL"; */
+"TC2-fF-OxL.text" = "Первый взнос";
+
+/* Class = "IBUIButton"; normalTitle = "Сохранить"; ObjectID = "UeS-L9-ff0"; */
+"UeS-L9-ff0.normalTitle" = "Сохранить";
+
+/* Class = "IBUITabBarItem"; title = "Second"; ObjectID = "Z7h-1E-pvt"; */
+"Z7h-1E-pvt.title" = "Second";
+
+/* Class = "IBUIButton"; normalTitle = "Рассчитать"; ObjectID = "g7Z-T9-LZv"; */
+"g7Z-T9-LZv.normalTitle" = "Рассчитать";
+
+/* Class = "IBUILabel"; text = "(наибольшая сумма)"; ObjectID = "hsR-Zk-VOC"; */
+"hsR-Zk-VOC.text" = "(наибольшая сумма)";
+
+/* Class = "IBUILabel"; text = "Процентная ставка"; ObjectID = "kTZ-si-ap0"; */
+"kTZ-si-ap0.text" = "Процентная ставка";
+
+/* Class = "IBUISegmentedControl"; lM8-oJ-yw6.segmentTitles[0] = "0.00"; ObjectID = "lM8-oJ-yw6"; */
+"lM8-oJ-yw6.segmentTitles[0]" = "0.00";
+
+/* Class = "IBUISegmentedControl"; lM8-oJ-yw6.segmentTitles[1] = "%"; ObjectID = "lM8-oJ-yw6"; */
+"lM8-oJ-yw6.segmentTitles[1]" = "%";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "pD7-q0-4Vr"; */
+"pD7-q0-4Vr.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Расчет"; ObjectID = "u1e-5L-l1D"; */
+"u1e-5L-l1D.title" = "Расчет";
+
+/* Class = "IBUILabel"; text = "Выплаты по процентам"; ObjectID = "xdC-uV-bdc"; */
+"xdC-uV-bdc.text" = "Выплаты по процентам";

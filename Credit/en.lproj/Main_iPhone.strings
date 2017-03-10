@@ -1,0 +1,117 @@
+
+/* Class = "IBUIButton"; normalTitle = "Send email"; ObjectID = "0c8-MF-tfQ"; */
+"0c8-MF-tfQ.normalTitle" = "Send email";
+
+/* Class = "IBUINavigationItem"; title = "Specification"; ObjectID = "12f-D1-N9C"; */
+"12f-D1-N9C.title" = "Specification";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "1aK-pn-RKW"; */
+"1aK-pn-RKW.normalTitle" = "Calculate";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "3rG-c5-P2j"; */
+"3rG-c5-P2j.text" = "Percent payments";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "58s-qH-xCg"; */
+"58s-qH-xCg.text" = "First payment";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "7e9-Rx-x8e"; */
+"7e9-Rx-x8e.text" = "Interest rate";
+
+/* Class = "IBUITextField"; text = "Name"; ObjectID = "8Td-Ns-URd"; */
+"8Td-Ns-URd.text" = "Name";
+
+/* Class = "IBUITabBarItem"; title = "Specification"; ObjectID = "9Rg-zR-qAc"; */
+"9Rg-zR-qAc.title" = "Specification";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DnL-ZJ-1nj"; */
+"DnL-ZJ-1nj.text" = "Title";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[0] = "0.00"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[0]" = "0.00";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[1] = "%"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[1]" = "%";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "Jn0-Ci-HM9"; */
+"Jn0-Ci-HM9.text" = "Interest rate";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "Mh9-y0-aP2"; */
+"Mh9-y0-aP2.text" = "Percent payments";
+
+/* Class = "IBUITabBarItem"; title = "Loans"; ObjectID = "NLN-T6-ieq"; */
+"NLN-T6-ieq.title" = "Loans";
+
+/* Class = "IBUINavigationItem"; title = "Loans"; ObjectID = "NOb-wR-c1Y"; */
+"NOb-wR-c1Y.title" = "Loans";
+
+/* Class = "IBUILabel"; text = "Loan term in months"; ObjectID = "OK5-6b-BgL"; */
+"OK5-6b-BgL.text" = "Loan term in months";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "OZm-kJ-3DK"; */
+"OZm-kJ-3DK.text" = "Monthly payment";
+
+/* Class = "IBUILabel"; text = "Loan term in months"; ObjectID = "SW8-hB-8mk"; */
+"SW8-hB-8mk.text" = "Loan term in months";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "URB-PJ-1aB"; */
+"URB-PJ-1aB.text" = "First payment";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "Wxc-tR-pmR"; */
+"Wxc-tR-pmR.text" = "First payment";
+
+/* Class = "IBUILabel"; text = "(the largest amount)"; ObjectID = "XFb-ug-qLL"; */
+"XFb-ug-qLL.text" = "(the largest amount)";
+
+/* Class = "IBUITextField"; text = "Name of loan"; ObjectID = "bhY-Lw-COf"; */
+"bhY-Lw-COf.text" = "Name of loan";
+
+/* Class = "IBUIButton"; normalTitle = "Print"; ObjectID = "oCt-eC-UC4"; */
+"oCt-eC-UC4.normalTitle" = "Print";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "pgK-sy-wxF"; */
+"pgK-sy-wxF.text" = "Monthly payment";
+
+/* Class = "IBUILabel"; text = "Loan type"; ObjectID = "r68-2x-ocZ"; */
+"r68-2x-ocZ.text" = "Loan type";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "scy-FD-vq4"; */
+"scy-FD-vq4.normalTitle" = "Save";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[0] = "Annuitet"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[0]" = "Annuitet";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[1] = "Different"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[1]" = "Different";
+
+/* Class = "IBUILabel"; text = "Amount of loan"; ObjectID = "wxs-ZP-aDT"; */
+"wxs-ZP-aDT.text" = "Amount of loan";
+
+/* Class = "IBUITabBarItem"; title = "Calculate"; ObjectID = "yQE-BJ-Xvr"; */
+"yQE-BJ-Xvr.title" = "Calculate";
+
+/* Class = "IBUILabel"; text = "Amount of loan"; ObjectID = "zZH-ms-dtE"; */
+"zZH-ms-dtE.text" = "Amount of loan";
+
+"IeL-ba-Z1S.normalTitle" = "Close";
+
+"OFt-BY-BUT.text" = "Help";
+
+"bcP-3e-v2D.title" = "Settings";
+
+"J0y-75-492.text" = "Settings";
+
+"igM-8n-2Xd.text" = "Support iCloud";
+
+"KgD-ui-PIl.text" = "(Switched off iCloud program runs faster)";
+
+"7vN-Ob-hV9.text" = "Detailed calculation";
+
+"UtF-W2-7BT.text" = "(Display a detailed calculation of loan)";
+
+"Uzq-lH-AAd.text" = "Balans";
+
+"Fo1-Vv-PD8.text" = "Payment";
+
+"3UD-4i-lVT.text" = "%";
+
+"KIh-oQ-jpZ.text" = "Transfer";

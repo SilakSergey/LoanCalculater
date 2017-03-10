@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Credit
+
+  Created by Sergey Silak on 21.06.14.
+  Copyright (c) 2014 Sergey Silak. All rights reserved.
+*/
+
+"Name of loan" = "Найменування кредиту";
+
+"Error" = "Error";
+
+"Loan term must be > 0" = "Термін кредиту повинен бути > 0";
+
+"Interest rate must be > 0" = "Процентна ставка повинна бути > 0";
+
+"Amount of loan must be > 0" = "Сума кредиту повинна бути > 0";
+
+"Saved" = "Збережено";
+
+"Annuitet" = "Аннуітет";
+
+"Different" = "Дифферент";
+
+"Menu" = "Меню";
+
+"Cancel" = "Відміна";
+
+"Send mail" = "Відправити на пошту";
+
+"Print" = "Роздрукувати";
+
+"Loan payment" = "Розрахунок кредиту";
+
+"Perform the calculation, please" = "Виконання обчислень, будь ласка";
+
+"Thank you for your purchase" = "Дякуємо за покупку";
+
+"iCloud access denied" = "Доступ ICloud відмовлено";
+
+"Make your choise" = "Зробити свій вибір";

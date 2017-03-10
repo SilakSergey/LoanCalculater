@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Credit
+
+  Created by Sergey Silak on 21.06.14.
+  Copyright (c) 2014 Sergey Silak. All rights reserved.
+*/
+
+"Name of loan" = "Nommer crédit";
+
+"Error" = "Error";
+
+"Loan term must be > 0" = "Terme de crédit doit être> 0";
+
+"Interest rate must be > 0" = "Le taux d'intérêt doit être> 0";
+
+"Amount of loan must be > 0" = "Montant du crédit doit être> 0";
+
+"Saved" = "Enregistré";
+
+"Annuitet" = "Rente";
+
+"Different" = "Différenciée";
+
+"Menu" = "Menu";
+
+"Cancel" = "Annuler";
+
+"Send mail" = "Envoyez un mail";
+
+"Print" = "Imprimer";
+
+"Loan payment" = "Paiement de prêt";
+
+"Perform the calculation, please" = "Effectuer le calcul, s'il vous plaît";
+
+"Thank you for your purchase" = "Nous vous remercions de votre achat";
+
+"iCloud access denied" = "L'accès iCloud refusé";
+
+"Make your choise" = "Faites votre choix";

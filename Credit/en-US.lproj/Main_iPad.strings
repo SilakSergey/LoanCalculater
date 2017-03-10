@@ -1,0 +1,78 @@
+
+/* Class = "IBUISegmentedControl"; 2sd-5P-iPN.segmentTitles[0] = "Аннуитент"; ObjectID = "2sd-5P-iPN"; */
+"2sd-5P-iPN.segmentTitles[0]" = "Аннуитент";
+
+/* Class = "IBUISegmentedControl"; 2sd-5P-iPN.segmentTitles[1] = "Дифферент"; ObjectID = "2sd-5P-iPN"; */
+"2sd-5P-iPN.segmentTitles[1]" = "Дифферент";
+
+/* Class = "IBUILabel"; text = "Первый взнос"; ObjectID = "37h-9A-v7O"; */
+"37h-9A-v7O.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "Сумма кредита"; ObjectID = "6Eg-8B-BpX"; */
+"6Eg-8B-BpX.text" = "Сумма кредита";
+
+/* Class = "IBUILabel"; text = "Ежемесячный платеж"; ObjectID = "6Sy-zl-5G1"; */
+"6Sy-zl-5G1.text" = "Ежемесячный платеж";
+
+/* Class = "IBUIButton"; normalTitle = "Сохранить"; ObjectID = "8r9-gg-bS5"; */
+"8r9-gg-bS5.normalTitle" = "Сохранить";
+
+/* Class = "IBUILabel"; text = "Срок кредита в месяцах"; ObjectID = "AE2-24-BRz"; */
+"AE2-24-BRz.text" = "Срок кредита в месяцах";
+
+/* Class = "IBUILabel"; text = "Выплаты по процентам"; ObjectID = "C53-hW-I33"; */
+"C53-hW-I33.text" = "Выплаты по процентам";
+
+/* Class = "IBUILabel"; text = "Первый взнос"; ObjectID = "Ecq-nL-Kho"; */
+"Ecq-nL-Kho.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "Выплаты по процентам"; ObjectID = "GMg-C9-QSZ"; */
+"GMg-C9-QSZ.text" = "Выплаты по процентам";
+
+/* Class = "IBUILabel"; text = "Процентная ставка"; ObjectID = "J1J-KE-Q5T"; */
+"J1J-KE-Q5T.text" = "Процентная ставка";
+
+/* Class = "IBUISegmentedControl"; LYh-HJ-e85.segmentTitles[0] = "0.00"; ObjectID = "LYh-HJ-e85"; */
+"LYh-HJ-e85.segmentTitles[0]" = "0.00";
+
+/* Class = "IBUISegmentedControl"; LYh-HJ-e85.segmentTitles[1] = "%"; ObjectID = "LYh-HJ-e85"; */
+"LYh-HJ-e85.segmentTitles[1]" = "%";
+
+/* Class = "IBUILabel"; text = "Тип кредита"; ObjectID = "Mak-lH-5g4"; */
+"Mak-lH-5g4.text" = "Тип кредита";
+
+/* Class = "IBUILabel"; text = "Сумма кредита"; ObjectID = "QKb-7V-BFD"; */
+"QKb-7V-BFD.text" = "Сумма кредита";
+
+/* Class = "IBUILabel"; text = "Срок кредита в месяцах"; ObjectID = "aJC-8b-xCM"; */
+"aJC-8b-xCM.text" = "Срок кредита в месяцах";
+
+/* Class = "IBUITabBarItem"; title = "Расчет"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Расчет";
+
+/* Class = "IBUILabel"; text = "Ежемесячный платеж"; ObjectID = "anQ-uC-9kX"; */
+"anQ-uC-9kX.text" = "Ежемесячный платеж";
+
+/* Class = "IBUITextField"; text = "0.00"; ObjectID = "c2i-fh-qu0"; */
+"c2i-fh-qu0.text" = "0.00";
+
+/* Class = "IBUITabBarItem"; title = "Сохранение"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Сохранение";
+
+/* Class = "IBUILabel"; text = "Процентная ставка"; ObjectID = "dyb-P6-6ZG"; */
+"dyb-P6-6ZG.text" = "Процентная ставка";
+
+/* Class = "IBUITabBarItem"; title = "Детализация"; ObjectID = "f6p-76-qGl"; */
+"f6p-76-qGl.title" = "Детализация";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "fMW-dY-bzl"; */
+"fMW-dY-bzl.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Первый взнос"; ObjectID = "fTW-IR-Ifj"; */
+"fTW-IR-Ifj.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "(наибольшая сумма)"; ObjectID = "hdR-jA-XR4"; */
+"hdR-jA-XR4.text" = "(наибольшая сумма)";
+
+/* Class = "IBUIButton"; normalTitle = "Рассчитать"; ObjectID = "l6K-Ko-35h"; */
+"l6K-Ko-35h.normalTitle" = "Рассчитать";

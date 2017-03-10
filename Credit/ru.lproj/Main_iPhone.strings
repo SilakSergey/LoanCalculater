@@ -1,0 +1,123 @@
+
+/* Class = "IBUINavigationItem"; title = "Specification"; ObjectID = "12f-D1-N9C"; */
+"12f-D1-N9C.title" = "Подробно";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "1aK-pn-RKW"; */
+"1aK-pn-RKW.normalTitle" = "Рассчитать";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "3rG-c5-P2j"; */
+"3rG-c5-P2j.text" = "Выплаты по процентам";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "58s-qH-xCg"; */
+"58s-qH-xCg.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "7e9-Rx-x8e"; */
+"7e9-Rx-x8e.text" = "Процентная ставка";
+
+/* Class = "IBUITextField"; text = "Name"; ObjectID = "8Td-Ns-URd"; */
+"8Td-Ns-URd.text" = "Наименование кредита";
+
+/* Class = "IBUITabBarItem"; title = "Specification"; ObjectID = "9Rg-zR-qAc"; */
+"9Rg-zR-qAc.title" = "Детализация";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DnL-ZJ-1nj"; */
+"DnL-ZJ-1nj.text" = "Title";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[0] = "0.00"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[0]" = "0.00";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[1] = "%"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[1]" = "%";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "Jn0-Ci-HM9"; */
+"Jn0-Ci-HM9.text" = "Процентная ставка";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "Mh9-y0-aP2"; */
+"Mh9-y0-aP2.text" = "Выплаты по процентам";
+
+/* Class = "IBUITabBarItem"; title = "Credits"; ObjectID = "NLN-T6-ieq"; */
+"NLN-T6-ieq.title" = "Кредиты";
+
+/* Class = "IBUINavigationItem"; title = "Credits"; ObjectID = "NOb-wR-c1Y"; */
+"NOb-wR-c1Y.title" = "Кредиты";
+
+/* Class = "IBUILabel"; text = "Credit term in months"; ObjectID = "OK5-6b-BgL"; */
+"OK5-6b-BgL.text" = "Срок кредита в месяцах";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "OZm-kJ-3DK"; */
+"OZm-kJ-3DK.text" = "Ежемесячный платеж";
+
+/* Class = "IBUILabel"; text = "Credit term in months"; ObjectID = "SW8-hB-8mk"; */
+"SW8-hB-8mk.text" = "Срок кредита в месяцах";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "URB-PJ-1aB"; */
+"URB-PJ-1aB.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "Wxc-tR-pmR"; */
+"Wxc-tR-pmR.text" = "Первый взнос";
+
+/* Class = "IBUILabel"; text = "(the largest amount)"; ObjectID = "XFb-ug-qLL"; */
+"XFb-ug-qLL.text" = "(наибольшая сумма)";
+
+/* Class = "IBUITextField"; text = "Name of credit"; ObjectID = "bhY-Lw-COf"; */
+"bhY-Lw-COf.text" = "Наименование кредита";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "pgK-sy-wxF"; */
+"pgK-sy-wxF.text" = "Ежемесячный платеж";
+
+/* Class = "IBUILabel"; text = "Credit type"; ObjectID = "r68-2x-ocZ"; */
+"r68-2x-ocZ.text" = "Тип кредита";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "scy-FD-vq4"; */
+"scy-FD-vq4.normalTitle" = "Сохранить";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[0] = "Annuitet"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[0]" = "Аннуитет";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[1] = "Different"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[1]" = "Дифферент";
+
+/* Class = "IBUILabel"; text = "Amount of credit"; ObjectID = "wxs-ZP-aDT"; */
+"wxs-ZP-aDT.text" = "Сумма кредита";
+
+/* Class = "IBUITabBarItem"; title = "Calculate"; ObjectID = "yQE-BJ-Xvr"; */
+"yQE-BJ-Xvr.title" = "Расчет";
+
+/* Class = "IBUILabel"; text = "Amount of credit"; ObjectID = "zZH-ms-dtE"; */
+"zZH-ms-dtE.text" = "Сумма кредита";
+
+/* Class = "IBUIButton"; normalTitle = "Send email"; ObjectID = "0c8-MF-tfQ"; */
+"0c8-MF-tfQ.normalTitle" = "Отправить на почту";
+
+/* Class = "IBUIButton"; normalTitle = "Print"; ObjectID = "oCt-eC-UC4"; */
+"oCt-eC-UC4.normalTitle" = "Распечатать";
+
+"IeL-ba-Z1S.normalTitle" = "Закрыть";
+
+"OFt-BY-BUT.text" = "Справка";
+
+"bcP-3e-v2D.title" = "Настройки";
+
+"J0y-75-492.text" = "Настройки";
+
+"igM-8n-2Xd.text" = "Поддержка iCloud";
+
+"KgD-ui-PIl.text" = "(C iCloud OFF программа работает быстрее)";
+
+"7vN-Ob-hV9.text" = "Детальный расчет";
+
+"UtF-W2-7BT.text" = "(Отображать детальный расчет по кредиту)";
+
+"Uzq-lH-AAd.text" = "Баланс";
+
+"Fo1-Vv-PD8.text" = "Выплата";
+
+"3UD-4i-lVT.text" = "%";
+
+"KIh-oQ-jpZ.text" = "Платеж";
+
+"YDx-t8-LfV.normalTitle" = "Купить";
+
+"m8t-Yv-uwO.normalTitle" = "Восстановить";
+
+

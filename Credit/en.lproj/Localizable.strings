@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  Credit
+
+  Created by Sergey Silak on 21.06.14.
+  Copyright (c) 2014 Sergey Silak. All rights reserved.
+*/
+
+"Name of loan" = "Name of loan";
+
+"Error" = "Error";
+
+"Loan term must be > 0" = "Loan term must be > 0";
+
+"Interest rate must be > 0" = "Interest rate must be > 0";
+
+"Amount of loan must be > 0" = "Amount of loan must be > 0";
+
+"Saved" = "Saved";
+
+"Annuitet" = "Annuitet";
+
+"Differet" = "Differet";
+
+"Menu" = "Menu";
+
+"Cancel" = "Cancel";
+
+"Send mail" = "Send mail";
+
+"Print" = "Print";
+
+"Loan payment" = "Loan payment";
+
+"Perform the calculation, please" = "Perform the calculation, please";
+
+"Thank you for your purchase" = "Thank you for your purchase";
+
+"iCloud access denied" = "iCloud access denied";
+
+"Make your choise" = "Make your choise";

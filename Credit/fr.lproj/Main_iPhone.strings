@@ -1,0 +1,117 @@
+
+/* Class = "IBUIButton"; normalTitle = "Send email"; ObjectID = "0c8-MF-tfQ"; */
+"0c8-MF-tfQ.normalTitle" = "Envoyer un email";
+
+/* Class = "IBUINavigationItem"; title = "Specification"; ObjectID = "12f-D1-N9C"; */
+"12f-D1-N9C.title" = "Spécification";
+
+/* Class = "IBUIButton"; normalTitle = "Calculate"; ObjectID = "1aK-pn-RKW"; */
+"1aK-pn-RKW.normalTitle" = "Calculer";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "3rG-c5-P2j"; */
+"3rG-c5-P2j.text" = "Paiements d'intérêts";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "58s-qH-xCg"; */
+"58s-qH-xCg.text" = "Première tranche";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "7e9-Rx-x8e"; */
+"7e9-Rx-x8e.text" = "Taux d'intérêt";
+
+/* Class = "IBUITextField"; text = "Name"; ObjectID = "8Td-Ns-URd"; */
+"8Td-Ns-URd.text" = "Nom";
+
+/* Class = "IBUITabBarItem"; title = "Specification"; ObjectID = "9Rg-zR-qAc"; */
+"9Rg-zR-qAc.title" = "Spécification";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DnL-ZJ-1nj"; */
+"DnL-ZJ-1nj.text" = "Title";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[0] = "0.00"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[0]" = "0.00";
+
+/* Class = "IBUISegmentedControl"; FdH-B6-X8F.segmentTitles[1] = "%"; ObjectID = "FdH-B6-X8F"; */
+"FdH-B6-X8F.segmentTitles[1]" = "%";
+
+/* Class = "IBUILabel"; text = "Interest rate"; ObjectID = "Jn0-Ci-HM9"; */
+"Jn0-Ci-HM9.text" = "Taux d'intérêt";
+
+/* Class = "IBUILabel"; text = "Percent payments"; ObjectID = "Mh9-y0-aP2"; */
+"Mh9-y0-aP2.text" = "Paiements d'intérêts";
+
+/* Class = "IBUITabBarItem"; title = "Credits"; ObjectID = "NLN-T6-ieq"; */
+"NLN-T6-ieq.title" = "Prêts";
+
+/* Class = "IBUINavigationItem"; title = "Credits"; ObjectID = "NOb-wR-c1Y"; */
+"NOb-wR-c1Y.title" = "Prêts";
+
+/* Class = "IBUILabel"; text = "Credit term in months"; ObjectID = "OK5-6b-BgL"; */
+"OK5-6b-BgL.text" = "Terme de crédit en mois";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "OZm-kJ-3DK"; */
+"OZm-kJ-3DK.text" = "Paiement mensuel";
+
+/* Class = "IBUILabel"; text = "Credit term in months"; ObjectID = "SW8-hB-8mk"; */
+"SW8-hB-8mk.text" = "Terme de crédit en mois";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "URB-PJ-1aB"; */
+"URB-PJ-1aB.text" = "Première tranche";
+
+/* Class = "IBUILabel"; text = "First payment"; ObjectID = "Wxc-tR-pmR"; */
+"Wxc-tR-pmR.text" = "Première tranche";
+
+/* Class = "IBUILabel"; text = "(the largest amount)"; ObjectID = "XFb-ug-qLL"; */
+"XFb-ug-qLL.text" = "(la plus grande quantité)";
+
+/* Class = "IBUITextField"; text = "Name of credit"; ObjectID = "bhY-Lw-COf"; */
+"bhY-Lw-COf.text" = "Nommer crédit";
+
+/* Class = "IBUIButton"; normalTitle = "Print"; ObjectID = "oCt-eC-UC4"; */
+"oCt-eC-UC4.normalTitle" = "Imprimer";
+
+/* Class = "IBUILabel"; text = "Monthly payment"; ObjectID = "pgK-sy-wxF"; */
+"pgK-sy-wxF.text" = "Paiement mensuel";
+
+/* Class = "IBUILabel"; text = "Credit type"; ObjectID = "r68-2x-ocZ"; */
+"r68-2x-ocZ.text" = "Type de prêt";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "scy-FD-vq4"; */
+"scy-FD-vq4.normalTitle" = "Sauver";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[0] = "Annuitet"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[0]" = "Rente";
+
+/* Class = "IBUISegmentedControl"; vYu-pY-28S.segmentTitles[1] = "Different"; ObjectID = "vYu-pY-28S"; */
+"vYu-pY-28S.segmentTitles[1]" = "Différenciée";
+
+/* Class = "IBUILabel"; text = "Amount of credit"; ObjectID = "wxs-ZP-aDT"; */
+"wxs-ZP-aDT.text" = "Montant du crédit";
+
+/* Class = "IBUITabBarItem"; title = "Calculate"; ObjectID = "yQE-BJ-Xvr"; */
+"yQE-BJ-Xvr.title" = "Paiement";
+
+/* Class = "IBUILabel"; text = "Amount of credit"; ObjectID = "zZH-ms-dtE"; */
+"zZH-ms-dtE.text" = "Montant du crédit";
+
+"IeL-ba-Z1S.normalTitle" = "Fermer";
+
+"OFt-BY-BUT.text" = "Aider";
+
+"bcP-3e-v2D.title" = "Paramètres";
+
+"J0y-75-492.text" = "Paramètres";
+
+"igM-8n-2Xd.text" = "Support iCloud";
+
+"KgD-ui-PIl.text" = "(Eteint programme iCloud est plus rapide)";
+
+"7vN-Ob-hV9.text" = "Un calcul détaillé";
+
+"UtF-W2-7BT.text" = "(Montrer calcul détaillé de prêt)";
+
+"Uzq-lH-AAd.text" = "Balance";
+
+"Fo1-Vv-PD8.text" = "Résultats";
+
+"3UD-4i-lVT.text" = "%";
+
+"KIh-oQ-jpZ.text" = "Paiement";
